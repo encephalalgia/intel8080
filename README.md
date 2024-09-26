@@ -93,7 +93,6 @@ Tests complete
 
 Done. Total time elapsed 3.35 min
 ```
-which, admittedly, is pretty slow compared to some, but I wasn't necessarily developing this for speed.
 
 ### Command line arguments
 * `-debug` - the processor state will be output during M1 cycle of each instruction
